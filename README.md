@@ -24,7 +24,7 @@ Given a randomly generated undirected graph (V,E) where the edge set E contains 
    - 2.4 Random Restarts
    - 2.5 Results
  
-[test](https://github.com/Bharath-Hegde/vertex-colouring-genetic-algo/edit/main/README.md#211-population-size)
+[yo](https://github.com/Bharath-Hegde/vertex-colouring-genetic-algo#211-population-size)
 
 ## 1. Standard Genetic Algorithm
 
